@@ -1,0 +1,56 @@
+{
+  "data": {
+    "rows": 95837,
+    "columns": 23,
+    "missing_values": 0,
+    "duplicate_rows": 0,
+    "duplicate_track_ids": 0,
+    "repeated_song_artist_pairs": 5837,
+    "zero_tempo_rows": 84,
+    "tracks_over_10_min": 513,
+    "unique_artists": 18009,
+    "unique_genres": 3153
+  },
+  "cleaning": {
+    "rows_in": 95837,
+    "exact_duplicates_removed": 0,
+    "same_song_same_audio_removed": 1493,
+    "zero_tempo_removed": 84,
+    "rows_out": 94260
+  },
+  "k_final": 4,
+  "best_silhouette_k": 3,
+  "kmeans_full": {
+    "silhouette_sample_20k": 0.232,
+    "davies_bouldin": 1.5089,
+    "calinski_harabasz": 21748.0,
+    "inertia": 557026.8
+  },
+  "pca_explained_variance": [
+    0.2765,
+    0.2098,
+    0.1152
+  ],
+  "clusters": {
+    "Instrumental & Soundtrack": {
+      "songs": 7532,
+      "share_pct": 7.99
+    },
+    "Mellow Acoustic": {
+      "songs": 28777,
+      "share_pct": 30.53
+    },
+    "Upbeat & Energetic": {
+      "songs": 45332,
+      "share_pct": 48.09
+    },
+    "Spoken Word & Audio Drama": {
+      "songs": 12619,
+      "share_pct": 13.39
+    }
+  },
+  "genres_with_50plus_songs": 364,
+  "median_genre_purity_pct": 72.6,
+  "genres_90pct_in_one_cluster_pct": 16.8,
+  "runtime_sec": 163.1
+}

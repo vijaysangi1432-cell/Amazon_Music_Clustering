@@ -1,0 +1,41 @@
+cluster_name,genre,songs,share_of_cluster_pct
+Instrumental & Soundtrack,classic soundtrack,245,3.2527881040892193
+Instrumental & Soundtrack,classic bollywood,167,2.217206585236325
+Instrumental & Soundtrack,sleep,155,2.057886351566649
+Instrumental & Soundtrack,adult standards,140,1.858736059479554
+Instrumental & Soundtrack,rebetiko,131,1.7392458842272969
+Instrumental & Soundtrack,new orleans jazz,121,1.6064790228359
+Instrumental & Soundtrack,soundtrack,111,1.4737121614445035
+Instrumental & Soundtrack,swedish jazz,110,1.4604354753053639
+Instrumental & Soundtrack,japanese instrumental,100,1.327668613913967
+Instrumental & Soundtrack,romantico,99,1.3143919277748275
+Mellow Acoustic,vintage taiwan pop,996,3.4610974041769467
+Mellow Acoustic,classic israeli pop,634,2.2031483476387392
+Mellow Acoustic,chanson,593,2.0606734544949092
+Mellow Acoustic,classic thai pop,487,1.6923237307572019
+Mellow Acoustic,opm,438,1.5220488584633562
+Mellow Acoustic,indonesian pop,431,1.4977238767070924
+Mellow Acoustic,turkish folk,369,1.2822740382944713
+Mellow Acoustic,unknown,363,1.2614240539319594
+Mellow Acoustic,arabesk,348,1.2092990930256802
+Mellow Acoustic,classic turkish pop,338,1.1745491190881607
+Spoken Word & Audio Drama,hoerspiel,7731,61.26475948965845
+Spoken Word & Audio Drama,kleine hoerspiel,2006,15.896663760995324
+Spoken Word & Audio Drama,unknown,699,5.539266185910136
+Spoken Word & Audio Drama,psychedelic rock,220,1.7434028052936048
+Spoken Word & Audio Drama,barnsagor,180,1.426420477058404
+Spoken Word & Audio Drama,poetry,162,1.2837784293525636
+Spoken Word & Audio Drama,barnmusik,151,1.1966082890878833
+Spoken Word & Audio Drama,kindermusik,87,0.6894365639115619
+Spoken Word & Audio Drama,barnalog,79,0.6260400982645218
+Spoken Word & Audio Drama,barnasogur,76,0.6022664236468817
+Upbeat & Energetic,j-pop,771,1.7007853172152123
+Upbeat & Energetic,unknown,718,1.5838701138268774
+Upbeat & Energetic,turkish pop,622,1.3720991793876292
+Upbeat & Energetic,classic thai pop,517,1.1404747198447014
+Upbeat & Energetic,rock uruguayo,497,1.0963557751698578
+Upbeat & Energetic,classic israeli pop,475,1.0478249360275302
+Upbeat & Energetic,cumbia uruguaya,451,0.9948822024177182
+Upbeat & Energetic,slovak pop,425,0.9375275743404218
+Upbeat & Energetic,classic icelandic pop,398,0.8779669990293832
+Upbeat & Energetic,classic hungarian pop,397,0.875761051795641

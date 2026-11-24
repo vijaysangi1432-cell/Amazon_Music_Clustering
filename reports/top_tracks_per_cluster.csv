@@ -1,0 +1,61 @@
+cluster_name,name_song,name_artists,genre,popularity_songs,energy,acousticness,instrumentalness,speechiness
+Instrumental & Soundtrack,ROLLIN N CONTROLLIN FREESTYLE,DUSTY LOCANE,new york drill,83,0.514,0.0975,0.497,0.328
+Instrumental & Soundtrack,YKWIM?,Yot Club,bedroom pop,79,0.537,0.935,0.893,0.0268
+Instrumental & Soundtrack,Jealous,Eyedress,noise pop,78,0.91,0.00498,0.859,0.0462
+Instrumental & Soundtrack,Buttercup,Jack Stauber,pittsburgh indie,78,0.373,0.723,0.81,0.0384
+Instrumental & Soundtrack,Show Me How,Men I Trust,indie pop,75,0.267,0.674,0.534,0.0415
+Instrumental & Soundtrack,Friendships,Pascal Letoublon,groove room,75,0.78,0.137,0.914,0.0414
+Instrumental & Soundtrack,Brahms Lullaby,Beth McLaughlin,lullaby,74,0.175,0.977,0.899,0.217
+Instrumental & Soundtrack,Snowman,WYS,lo-fi beats,74,0.193,0.802,0.893,0.0461
+Instrumental & Soundtrack,"Twinkle, Twinkle, Little Star",Adelmar Borrego,instrumental lullaby,73,0.0248,0.996,0.967,0.0622
+Instrumental & Soundtrack,Fearless,Lost Sky,gaming edm,73,0.937,0.302,0.783,0.0397
+Instrumental & Soundtrack,Baby Sleep Shhh: The Perfect Settling Tool for Babies!,littleONES,lullaby,73,0.0787,0.961,0.999,0.188
+Instrumental & Soundtrack,Monolog,Pamungkas,indonesian pop,72,0.578,0.108,0.558,0.0312
+Instrumental & Soundtrack,Cabin Back Noise,High Altitude Samples,white noise,72,0.338,0.957,1.0,0.104
+Instrumental & Soundtrack,In My Head,Bedroom,small room,72,0.611,0.168,0.92,0.0323
+Instrumental & Soundtrack,Nepenthe,Clyde Boudreaux,background music,72,0.00512,0.993,0.851,0.038
+Mellow Acoustic,What You Know Bout Love,Pop Smoke,brooklyn drill,91,0.548,0.65,1.59e-06,0.353
+Mellow Acoustic,Arcade,Duncan Laurence,dutch pop,89,0.329,0.818,0.00109,0.0441
+Mellow Acoustic,Put Your Records On,Ritt Momney,bedroom pop,87,0.491,0.0563,0.00089,0.0538
+Mellow Acoustic,Hold On,Chord Overstreet,acoustic pop,83,0.443,0.469,0.0,0.0526
+Mellow Acoustic,Party Girl,StaySolidRocky,melodic rap,81,0.431,0.749,0.0,0.0622
+Mellow Acoustic,Control,Zoe Wees,german pop,80,0.465,0.643,1.57e-06,0.0314
+Mellow Acoustic,Beautiful Crazy,Luke Combs,contemporary country,80,0.402,0.676,0.0,0.0262
+Mellow Acoustic,Go Fuck Yourself,Two Feet,indie poptimism,80,0.327,0.571,0.0479,0.277
+Mellow Acoustic,Ruthless (Nice Guys Always Finish Last),MarMar Oso,pop r&b,79,0.269,0.388,0.0,0.0456
+Mellow Acoustic,Weak,Larissa Lambert,chill r&b,79,0.451,0.627,0.0,0.0584
+Mellow Acoustic,agoraphobic,CORPSE,viral rap,79,0.697,0.778,0.000398,0.219
+Mellow Acoustic,Better Together,Luke Combs,contemporary country,79,0.225,0.827,0.0,0.0477
+Mellow Acoustic,Blue Jeans,GANGGA,indonesian pop,79,0.297,0.938,0.0839,0.0334
+Mellow Acoustic,ALL GIRLS ARE THE SAME,RØNIN,sad rap,79,0.343,0.593,0.0,0.0862
+Mellow Acoustic,"Psycho, Pt. 2",Russ,hawaiian hip hop,78,0.548,0.775,5.57e-06,0.235
+Spoken Word & Audio Drama,Beautiful Pain (Losin My Mind),Polo G,chicago rap,72,0.477,0.137,0.0,0.642
+Spoken Word & Audio Drama,Gentleman,SL,uk hip hop,70,0.277,0.594,0.0,0.633
+Spoken Word & Audio Drama,The Chicken Wing Beat,Ricky Desktop,viral rap,70,0.281,0.814,0.0415,0.623
+Spoken Word & Audio Drama,Neva Cared,Polo G,chicago rap,70,0.35,0.0213,0.0,0.574
+Spoken Word & Audio Drama,Ella Se Arrebata,Ak4:20,trap latino,63,0.716,0.0252,0.0,0.623
+Spoken Word & Audio Drama,Dingue de toi,Keyzo,rap calme,61,0.202,0.716,0.0,0.459
+Spoken Word & Audio Drama,Hawaii,Luciano,german drill,57,0.68,0.206,2.16e-06,0.43
+Spoken Word & Audio Drama,Bella latina,French The Kid,uk hip hop,57,0.481,0.286,0.0,0.426
+Spoken Word & Audio Drama,Первый раз,JojoHF,russian hip hop,57,0.378,0.311,0.0,0.292
+Spoken Word & Audio Drama,Head Shoulders Knees & Toes (Sing It),Super Simple Songs,"""childrens music""",57,0.607,0.74,0.0,0.293
+Spoken Word & Audio Drama,PS2,Symba,german alternative rap,56,0.384,0.166,9.26e-05,0.429
+Spoken Word & Audio Drama,Déprime,Klem Schen,rap calme,56,0.488,0.601,0.0,0.894
+Spoken Word & Audio Drama,"Kenning West, Alder",Kenning West Records,partyschlager,56,0.425,0.412,0.0,0.35
+Spoken Word & Audio Drama,L'amour c'est un piége ?,Suzuya,rap calme,55,0.696,0.679,0.0,0.465
+Spoken Word & Audio Drama,Trollmors vaggsång,Sov Gott,barnmusik,55,0.254,0.929,1.64e-06,0.802
+Upbeat & Energetic,Astronaut In The Ocean,Masked Wolf,australian hip hop,98,0.695,0.175,0.0,0.0913
+Upbeat & Energetic,WITHOUT YOU,The Kid LAROI,australian hip hop,94,0.413,0.213,0.0,0.0299
+Upbeat & Energetic,Hecha Pa' Mi,Boza,unknown,92,0.756,0.362,0.000685,0.0572
+Upbeat & Energetic,911,Sech,latin,91,0.655,0.076,1.76e-06,0.0422
+Upbeat & Energetic,Goosebumps,HVME,slap house,89,0.659,0.325,0.0,0.0444
+Upbeat & Energetic,RAPSTAR,Polo G,chicago rap,89,0.536,0.41,0.0,0.242
+Upbeat & Energetic,Whoopty,CJ,trap,89,0.648,0.2,0.0,0.125
+Upbeat & Energetic,Martin & Gina,Polo G,chicago rap,88,0.534,0.345,0.0,0.253
+Upbeat & Energetic,Tapão Na Raba,Raí Saia Rodada,forro,87,0.796,0.462,0.000269,0.0305
+Upbeat & Energetic,Girls Like Us,Zoe Wees,german pop,86,0.648,0.288,0.0,0.0476
+Upbeat & Energetic,Hayloft,Mother Mother,vancouver indie,86,0.922,0.00475,0.000162,0.0728
+Upbeat & Energetic,Coração Na Cama,Hugo & Guilherme,sertanejo pop,86,0.794,0.663,0.0,0.0589
+Upbeat & Energetic,Dior,Pop Smoke,brooklyn drill,86,0.805,0.212,0.000389,0.351
+Upbeat & Energetic,Dancing in My Room,347aidan,sad rap,85,0.413,0.671,7.95e-05,0.101
+Upbeat & Energetic,Explícito,Myke Towers,trap latino,85,0.83,0.348,1.6e-05,0.047
